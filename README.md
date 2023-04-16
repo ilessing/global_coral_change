@@ -6,6 +6,7 @@ This repository includes data and analysis scripts to accompany:
 [Link to article](https://science.sciencemag.org/content/372/6545/977/tab-article-info)
 
 ### Author of analysis and code: Mary K Donovan
+
 -----
 
 ### Description:
